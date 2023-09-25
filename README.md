@@ -9,6 +9,10 @@ Please see the report, `Poon-Anson-CP2020-Project1-Report`, for details on the t
 
 `Poon-Anson-CP2020-Project1-Report.pdf` is the submitted report presenting the theoretical background of the neutrino mixing problems, the technical approach and the analysis of the different optimisation techniques and the results.
 
+## Data
+
+The data is simulated data is stored at `https://www.hep.ph.ic.ac.uk/~ms2609/CompPhys/neutrino_data/awp18.txt`.
+
 ## Python Scripts
 
 There are two Python scripts:
