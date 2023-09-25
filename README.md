@@ -4,6 +4,18 @@ This project aims to compute the neutrino mixing angle, squared mass difference 
 
 Please see the report, `Poon-Anson-CP2020-Project1-Report`, for details on the theoretical background, approach and analysis.
 
+## Usage
+
+Before running the scripts, install the required Python libraries:
+
+```
+pip install -r requirements.txt
+```
+To run the script, run the following in the terminal:
+```
+python class_results.py
+```
+This would produce all plots for analysis and gives the results of the optimisation (neutrino mixing angle, squared mass difference and neutrino cross-section) from different optimisation algorithms.
 ## Reports and Descriptions
 `Projects.pdf` is the project description given by the lecturers.
 
