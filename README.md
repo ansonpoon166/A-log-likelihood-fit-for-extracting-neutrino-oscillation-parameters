@@ -1,6 +1,6 @@
 # A Log Likelihood Fit for Extracting Neutrino Oscillation Parameters
 
-This project aims to compute the neutrino mixing angle, squared mass difference and neutrino cross-section using multidimensional minimising techniques including Univariate method, Newton method, Quasi-Newton method and Gradient  method. All optimisation algorithms are developed from scratch. Since the function is not a differentialable, numerical methods are implemented to estimate the first order and second order derivatives of the function using the forward-difference scheme.
+This project aims to compute the neutrino mixing angle, squared mass difference and neutrino cross-section using multidimensional optimisation techniques including Univariate method, Newton method, Quasi-Newton method and Gradient  method. All optimisation algorithms are developed from scratch. Since the function is not a differentialable, numerical methods are implemented to estimate the first order and second order derivatives of the function using the forward-difference scheme.
 
 Please see the report, `Poon-Anson-CP2020-Project1-Report`, for details on the theoretical background, approach and analysis.
 
